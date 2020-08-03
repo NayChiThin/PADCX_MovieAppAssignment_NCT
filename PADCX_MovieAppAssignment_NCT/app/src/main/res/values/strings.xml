@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PADCX_MovieAppAssignment_NCT</string>
+    <string name="txt_appbar_title">Discover</string>
+    <string name="txt_popular_title">BEST POPULAR FILMS AND SERIALS</string>
+    <string name="txt_top">TOP</string>
+    <string name="txt_showtime_title">Check Movie Showtimes</string>
+    <string name="txt_see_more">SEE MORE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_showcase_title">SHOWCASES</string>
+    <string name="txt_more_showcase_title">MORE SHOWCASES</string>
+    <string name="txt_liked">YOU LIKE 18 MOVIES</string>
+    <string name="txt_actor_title">BEST ACTORS</string>
+    <string name="txt_more_actor">MORE ACTORS</string>
+    <string name="txt_storyline_title">STORYLINE</string>
+    <string name="txt_play_trailer">PLAY TRAILER</string>
+    <string name="txt_rate_movie">RATE MOVIE</string>
+    <string name="txt_actor">ACTORS</string>
+    <string name="txt_about_film">ABOUT FILM</string>
+    <string name="txt_original_title">Original Title:</string>
+    <string name="txt_description">Description:</string>
+    <string name="txt_premiere">Premiere:</string>
+    <string name="txt_production">Production:</string>
+    <string name="txt_type">Type</string>
+    <string name="txt_creator">CREATORS</string>
+    <string name="txt_more_creator">MORE CREATORS</string>
+</resources>
